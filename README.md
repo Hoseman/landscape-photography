@@ -2,7 +2,7 @@
 
 Photography Custom Wordpress Theme
 ===
-ACH CReative Photography custom bespoke wordpress theme
+ACH Creative Photography custom bespoke wordpress theme
 <hr>
 https://photography.achcreative.info
 <hr>
